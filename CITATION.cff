@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+title: 'Commercial Lease Cost: 2026 Metro Dataset'
+authors:
+  - family-names: Baidi
+    given-names: Aissam
+url: 'https://commercialleasecost.com'
+license: CC-BY-4.0
+date-released: '2026-05-03'
